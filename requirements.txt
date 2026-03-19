@@ -1,5 +1,6 @@
 flask
 flask-cors
 pymongo
-gunicorn
 pymysql
+flask-sqlalchemy
+gunicorn
